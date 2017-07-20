@@ -1,0 +1,2 @@
+# stacksmasher
+Require laziness.
